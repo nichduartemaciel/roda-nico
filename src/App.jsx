@@ -275,10 +275,10 @@ export default function App() {
         {/* HEADER */}
         <header style={{textAlign:"center",marginBottom:"28px"}}>
           <h1 style={{fontSize:"clamp(26px,5vw,46px)",fontWeight:900,background:"linear-gradient(135deg,#FF6B6B 0%,#FFD93D 28%,#6BCB77 55%,#4D96FF 80%,#C77DFF 100%)",WebkitBackgroundClip:"text",WebkitTextFillColor:"transparent",backgroundClip:"text",marginBottom:"8px",lineHeight:1.1}}>
-            🎨 Roda do Artista
+            🎨 Roda do Nicoooo
           </h1>
           <p style={{color:"rgba(255,255,255,0.35)",fontSize:"14px",fontWeight:600}}>
-            {ALL_WHEELS.length} rodas · cada detalhe do seu personagem, sorteado
+            {ALL_WHEELS.length} rodas ·  vou escolher por você, baby
           </p>
         </header>
 
